@@ -62,7 +62,7 @@ This is a fully client-side project, with no server or bundler needed.
 
 ## Demo
 
-<https://inilinknya>
+<https://alfaefsatech.ojinozenin.my.id/>
 
 ## Contact
 
