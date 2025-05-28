@@ -8,7 +8,7 @@ export function About() {
       </div>
       <div class="feature">
         <h3><i class="iconify" data-icon="mdi:palette"></i> Style</h3>
-        <p>I focus on clean, accessible UI/UX using only HTML, CSS, and vanilla JS — no external libraries needed.</p>
+        <p>I focus on building a web that meets the needs without being bound to one framework or having to use a framework.</p>
       </div>
       <div class="feature">
         <h3><i class="iconify" data-icon="mdi:code-tags"></i> Structure</h3>
@@ -40,35 +40,35 @@ export function About() {
     <section class="timeline">
   <h3>Career Timeline</h3>
   <div class="timeline-wrapper">
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <h4>2022 - Lab Assistant MKU & Informatika</h4>
-      <p>Menjadi asisten laboratorium untuk mata kuliah komputer di berbagai program studi, serta mendampingi mahasiswa pada mata kuliah pemrograman dan web development.</p>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h4>2022 - Lab Assistant at MKU & Informatics</h4>
+        <p>Served as a laboratory assistant for computer courses in various study programs, and assisted students in programming and web development courses.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h4>2024 - Started Bangkit Academy</h4>
+        <p>Selected to participate in the Bangkit Academy by Google, GoTo & Traveloka in the Machine Learning track, enhancing data analysis and modeling skills.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h4>2024 - Internship at PT Ascon Indonesia</h4>
+        <p>Worked as a Website Developer Intern, building and managing the OasseCourse website using PHP and JavaScript while practicing full-stack development.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h4>2025 - Coding Camp at DBS</h4>
+        <p>Participated in the Coding Camp at DBS with a Fullstack Engineer (FE-BE) path to enhance full-stack development skills.</p>
+      </div>
     </div>
   </div>
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <h4>2023 - Mulai Bangkit Academy</h4>
-      <p>Terpilih mengikuti program Bangkit Academy by Google, GoTo & Traveloka pada jalur Machine Learning, sekaligus meningkatkan keterampilan analisis data dan pemodelan.</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <h4>2024 - Internship di PT Ascon Indonesia</h4>
-      <p>Bertugas sebagai Website Developer Intern, membangun dan mengelola website OasseCourse menggunakan PHP dan JavaScript serta praktik full-stack development.</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <h4>2025 - Coding Camp DBS</h4>
-      <p>Mengikuti program Coding Camp DBS dengan path Fullstack Engineer (FE-BE) untuk meningkatkan keterampilan fullstack development.</p>
-    </div>
-  </div>
-</div>
 
 </section>
   `;
